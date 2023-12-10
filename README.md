@@ -9,7 +9,7 @@ Levantamiento de de backend, donde se muestra diferente información en diferent
 
 ## Capturas
 
-![image](https://github.com/cristian-simba/laboratorio09/assets/117742977/4d4163d0-b09b-47b5-88f4-6d83d32451af | width=100))
+![image](https://github.com/cristian-simba/laboratorio09/assets/117742977/4d4163d0-b09b-47b5-88f4-6d83d32451af | width=100)
 ![image](https://github.com/cristian-simba/laboratorio09/assets/117742977/e01440c8-beb0-41fa-9861-cefbb79f8861)
 ![image](https://github.com/cristian-simba/laboratorio09/assets/117742977/91df0c7c-2210-40ae-a8e7-5a85d5734254)
 
