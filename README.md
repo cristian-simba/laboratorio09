@@ -2,16 +2,14 @@
 
 Levantamiento de de backend, donde se muestra diferente información en diferentes rutas, se presentara información del grupo de trabajo, de los integrantes y de unos productos
 
-
-
-
 ## Authors
 
-- [@Ruizerick26](https://www.github.com/Ruizerick26)
+- [@cristian-simba](https://www.github.com/cristian-simba)
 
 
 ## Capturas
 
-![imagen](https://github.com/Ruizerick26/laboratorio9/assets/117743844/b4eb9025-c8f9-48f7-b89d-26a723b9de2d)
-![imagen](https://github.com/Ruizerick26/laboratorio9/assets/117743844/ba349781-bfd5-4a50-9133-12ca3779b8aa)
-![imagen](https://github.com/Ruizerick26/laboratorio9/assets/117743844/83403655-7fb8-4e87-9b44-1cf742c1ff03)
+![image](https://github.com/cristian-simba/laboratorio09/assets/117742977/4d4163d0-b09b-47b5-88f4-6d83d32451af)
+![image](https://github.com/cristian-simba/laboratorio09/assets/117742977/e01440c8-beb0-41fa-9861-cefbb79f8861)
+![image](https://github.com/cristian-simba/laboratorio09/assets/117742977/91df0c7c-2210-40ae-a8e7-5a85d5734254)
+
